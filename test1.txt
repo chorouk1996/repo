@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 7CD6-6470
-
- Directory of C:\Users\Chorouk\Desktop\my project
-
-17/12/2017  23:54    <DIR>          .
-17/12/2017  23:54    <DIR>          ..
-17/12/2017  23:54                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  78ÿ825ÿ787ÿ392 bytes free
+change
